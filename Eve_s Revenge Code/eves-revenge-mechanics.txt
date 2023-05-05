@@ -1,0 +1,15 @@
+WELCOME TO EVE'S REVENGE!
+
+This is a prototype game creates by Claridades, Mendiola and Mercado of EMC201 as part
+of the final requirements of 6Graph. 
+
+This is a classic snake game with a twist!
+
+
+HOW TO RUN THE PROGRAM
+
+1. Make sure you have graphics.py and pygame installed to run the program.
+2. If yes, download the game. If no, please install first before running the program.
+3. Open the folder and open the main_menu.py using python compiler.
+4. Use arrow keys to choose to play, settings, or exit and then press return to confirm.
+5. Wait to load and enjoy playing!
